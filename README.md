@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm dgudim</h1>
-<h3 align="center">A random developer trying to make code work</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<h3 align="center">I am just a random developer working on random projects in my free time, trying to make code work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgudim" alt="dgudim" /> </p>
 
@@ -57,6 +58,8 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgudim&show_icons=true&theme=gruvbox&count_private=true" alt="dgudim" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&theme=gruvbox&count_private=true" alt="dgudim's github stats" height="200"/>
-<div><img src="https://github-profile-trophy.vercel.app/?username=dgudim&theme=gruvbox&count_private=true" width="1200"></div></p>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&line_height=25)</a>
+<a href="#">![Commit streak](https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D")</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true)</a>
+
+
