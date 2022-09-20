@@ -61,5 +61,5 @@
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&line_height=25)</a>
 <a href="#">![Commit streak](https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D")</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true)</a>
-
+![Dgudim's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgudim&theme=gruvbox&bg_color=282828)
 
