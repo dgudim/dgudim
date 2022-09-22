@@ -1,10 +1,21 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+</p>
 <h3 align="center">I am just a random developer working on random projects in my free time, trying to make code work</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgudim" alt="dgudim" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dgudim" alt="dgudim" /> 
+  <a href="https://github.com/dgudim?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/dgudim?color=4C1&logo=github"></a>
+  <a href="https://github.com/dgudim/dgudim" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/dgudim/dgudim?label=Profile%20update&style=fflat-square"></a>
+</p>
 
-- 📫 How to reach me **github.earthworm153@simplelogin.com**
+  📫 Where to find me: <p>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.earthworm153@simplelogin.com)
+  [![Discord](https://dcbadge.vercel.app/api/shield/410761741484687371?theme=discord-inverted)](https://discordapp.com/users/410761741484687371/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kl0ud)
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
+  [![VK](https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/gudimd2)
+   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078893199038)
+</p>
 
 ### Languages and Tools:
 
@@ -50,6 +61,7 @@
 
 #### Other tools
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
