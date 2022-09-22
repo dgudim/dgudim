@@ -68,8 +68,9 @@
 #### Documentation
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Design
+#### Design and editing
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-527EB2.svg?style=for-the-badge&logo=Kdenlive&logoColor=white)
 
 <br />
 <br />
