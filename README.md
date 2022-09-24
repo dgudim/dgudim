@@ -8,14 +8,26 @@
   <a href="https://github.com/dgudim/dgudim" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/dgudim/dgudim?label=Profile%20update&style=fflat-square"></a>
 </p>
 
-  📫 Where to find me: <p>
+<table align="right">
+<tr><td><a href="https://discordapp.com/users/410761741484687371/"><img alt="Discord" src="https://lanyard.cnrad.dev/api/410761741484687371?bg=0D1117"></a></td></tr>
+<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22"></a></td></tr>
+</table>
+
+<p align="center">
+  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28"></a>
+  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true"></a>
+</p>
+
+
+  📫 Where to find me: 
+<br />
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.earthworm153@simplelogin.com)
   [![Discord](https://dcbadge.vercel.app/api/shield/410761741484687371?theme=discord-inverted)](https://discordapp.com/users/410761741484687371/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kl0ud)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
   [![VK](https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/gudimd2)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078893199038)
-</p>
+
 
 ### Languages and Tools:
 
@@ -76,8 +88,5 @@
 <br />
 <br />
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&line_height=25)](#)
-[![Commit streak](https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D")](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true)](#)
 [![Dgudim's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgudim&theme=gruvbox&bg_color=282828)](#)
 
