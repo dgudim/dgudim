@@ -9,13 +9,13 @@
 </p>
 
 <table align="right">
-<tr><td><a href="https://discordapp.com/users/410761741484687371/"><img alt="Discord" src="https://lanyard.cnrad.dev/api/410761741484687371?bg=0D1117&idleMessage=Probably%20doing%20something%20else..." width=390></a></td></tr>
-<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22"></a></td></tr>
+<tr><td><a href="https://discordapp.com/users/410761741484687371/"><img alt="Discord" src="https://lanyard.cnrad.dev/api/410761741484687371?bg=0D1117&idleMessage=Probably%20doing%20something%20else..." width=330></a></td></tr>
+<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22" height=155></a></td></tr>
 </table>
 
 <p align="center">
-  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=480></a>
-  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=480></a>
+  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=430></a>
+  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=430></a>
 </p>
 
 
