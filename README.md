@@ -28,6 +28,9 @@
   [![VK](https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/gudimd2)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078893199038)
 
+  📜 My projects that are worth looking at (Click the portal to go) <br>
+  
+  <a href="https://dgudim.github.io/" target="_blank"><img height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
 
 ### Languages and Tools:
 
