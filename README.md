@@ -27,10 +27,17 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
   [![VK](https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/gudimd2)
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100078893199038)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/ddaster)
   [![Matrix](https://img.shields.io/badge/Matrix-0DBD8B?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@doodetz:matrix.org)
   [![Mastodon](https://img.shields.io/badge/Mastodon-5D3FDD?style=for-the-badge&logo=mastodon&logoColor=white)](https://ioc.exchange/@kloud)
   
-  📜 My projects that are worth looking at (Click the portal to go) <br>
+  📫 Languages i know:
+<br />
+  [![English](https://img.shields.io/badge/English%20%28C1%29-496fad?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAhNQTFRF/////XmBgFeSQUebQkibQkicQ0mcREqcRUqdRUudRkeZRkydR0eZR0yeR02eSE6fSU+fSkeYSkiYSlCgS1GgTFGgTFKhTVOhTlOhTlSiT1WiUFWiUVajUVejUlejU1ikU1mkVFmlVVqlVVulVlumV1ymWF2mWV6nXGGoXWKpYGWrYWarYmesY2isZGisZGmtZWqtZmqtZmuuZ2yuaGOmaGepaGqsaG2uaVKWaVWZaVqdaW2vaW6vakiMa0iMa2+wa3CwbXGxbXKxb3OycHWzcXWzcne0c3e0dEiIdXm1dnq1d3u2d3y2eHy3eX23e3+4fIC4fIC5fYG5foK5foK6f4O6gYS7goa7g4a8g4e8hYm9hmCXh2GXh4u+iY2/io2/io7Ai2KXi4/AjZHBj5PCkZXDkpXElJfElZjFlpnFl5rGmZzHmp3Hm57InaDJn6LKoaTLoqTLpKfMpajNpqnNp6rOqazPq63QrEt2rK7QrrDRrrHSsbPTsrTTs7XUtLbVtbfVtbjVtrjWubvXurzXu73Yvb7ZvsDZv5q2v8HawcPbwsTcxMbdxsfdxsjex8neycrfycvfysvfy8zgzM3hzc7hzc/hzs/iz9Di0NHi09Tk1NXk132T19jm2drn2tvo3Nzo3t7p3t/q3+Dq4eHr5OXt5eXt9fX19urr99rc+MrN+qCl+4qR/HqC/lBa/0tV/09ZQeR/tAAAAAN0Uk5TANzyhEjd/QAAAkRJREFUWMPt1vlbTFEcx/Gb97l3bsbMvbQnbmMmLWRSGEskIUtCKmVJki2UdRJDUkqNJFubZG9T+RP9BXXv89xf5umZ1w/nx8/znO/nnPMcSYqKWh5WrFq5qNWP/5mYj5FYyr4FUxIkJwMYOoDXBZApA2TDXisBWne3BnHhFyqkDDwRYAw9AryjzWybMSVBfT0ZaVypIyuR6zXkuLlZhV/h9mkCk6YkAP1dnwsSP3UpkDbWDqR/bQUsBni9VJ4iO5XqcnISqDnOVicXSylS2D1rSkIbHNQg7nNfLKSMdQlIn2gHfD+C1oZIWRmbMikvo8Cg4jDFSVQepNRFdYnFANBHP7ogcfyNAmnfe4D03x0AO+dMSQi/XxTuEcVZFBWIQxvZny+fWMsBv1wVb22I7uFhN+ijAyokTfQIWP+rE/D8eWqxhby82DNHHXn5rtoSObBFryskkKs3bqYwlx1TpiQA9X1YAedIlwB9/DkQ/zMIFo+ys7bW6fO5G046Mnx64zHh8yU0lZDhS2oOWAtQwmFFFo63r4SCcySEgjbeioL+7a7FGg1Dv3XVZXgSWhoUj5H64ByGsa6tAsPD9mlTEsgync9wCHqDOBD991GRh+6gWrwLWkuLpmlxD5tidS0leE1omhG6hKZteHnWYo2hEEBHG0DvPYD+ZkB8uMGuv6YkUFVYZLUyxDVLvYlHLAS8vnB+UZe/WNjCpE32A6ZtkhZsioCAKZsioMY5myKghVmbIqCFGZsioIWY+X82zMdEv+pRy8R/FJmiO3SYX4gAAAAASUVORK5CYII=)](#)
+  [![Russian](https://img.shields.io/badge/Russian%20%28Native%29-ad4949?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAHYAAAB2AH6XKZyAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAALFJREFUeJzt16GNAmEURtEZMoYK6IQmcIhtkBbAIaAP9Nod1CYY6IIj/nsquPmSJ940JUmSZEzz6fo46whpXtf1rSOkjQ7QGkAHaA2gA7QG0AFaA+gArQF0gDb8AMvv30s3UPN0PPcNjqwBdIDWADpAawAdoDWADtAaQAdoDaADtPm+3Q/9DS67/6duoIY/gQbQAVoD6ACtAXSA1gA6QGsAHaANP8ByO/xcdESSJEnyfR8erBIBIDKMHQAAAABJRU5ErkJggg==)](#)
+  <sup><sub>Fuck Russia tho</sub></sup>
+  
+📜 My projects that are worth looking at (Click the portal to go) <br>
   
   <a href="https://dgudim.github.io/"><img id="portal" height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
 
