@@ -122,5 +122,5 @@
 <br />
 <br />
 
-[![Dgudim's github activity graph](https://activity-graph.herokuapp.com/graph?username=dgudim&theme=gruvbox&bg_color=282828)](#)
+[![Dgudim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dgudim&theme=gruvbox&bg_color=282828)](#)
 
