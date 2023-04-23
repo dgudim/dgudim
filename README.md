@@ -10,7 +10,7 @@
 
 <table align="right">
 <tr><td><a href="https://discordapp.com/users/410761741484687371/"><img alt="Discord" src="https://lanyard.cnrad.dev/api/410761741484687371?bg=0D1117&idleMessage=Probably%20doing%20something%20else..." width=330></a></td></tr>
-<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&exclude_repo=uni-math-notes&langs_count=6&card_width=350" height=155></a></td></tr>
+<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=350" height=155></a></td></tr>
 </table>
 
 <p align="center">
