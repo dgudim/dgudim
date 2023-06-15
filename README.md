@@ -25,7 +25,6 @@
   [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/410761741484687371/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kl0ud)
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
-  [![VK](https://img.shields.io/badge/VK-0077FF.svg?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/gudimd2)
   [![Matrix](https://img.shields.io/badge/Matrix-0DBD8B?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@doodetz:matrix.org)
   [![Mastodon](https://img.shields.io/badge/Mastodon-5D3FDD?style=for-the-badge&logo=mastodon&logoColor=white)](https://ioc.exchange/@kloud)
   
