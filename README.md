@@ -57,7 +57,7 @@
 
 📜 My projects that are worth looking at (Click the portal to go) <br>
   
-  <a href="https://dgudim.github.io/"><img id="portal" height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
+  <a href="https://dgudim.github.io/projects"><img id="portal" height="100" src="https://media.tenor.com/fWA2N8CPWEkAAAAi/sonic-mania.gif"></a>
 
 ### Languages and Tools:
 
