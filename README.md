@@ -38,22 +38,6 @@
   [![ko-fi](https://img.shields.io/badge/Kofi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=black)](https://ko-fi.com/O4O0HJ4M6)
   [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/kloud/donate)
   [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dgudim)
-<details>
-  <summary><img src="https://camo.githubusercontent.com/aea628e3ec668cc97acaa3e3135d3f1b03e79bf26f2588073fe7c28e4997712c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6f6e65726f2d4646363630303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e65726f266c6f676f436f6c6f723d7768697465"></summary>
- 
-  ```
-  4AS4wPsTimXj5U82VkPDaF6wZfqfihjE9aoGozyF87hN8hWzhcJTZHvYy5JgLcukM7aCw6DLe9rCsKVbmWQd6WGK5iYhCSb
-  ```
-</details>
-
-<details>
-  <summary><img src="https://camo.githubusercontent.com/fc47d33f8dee7a7ee58f8b40ed2b5fa2daeb1e28a0cba62a5374b4c98edb16ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d457468657265756d266c6f676f436f6c6f723d7768697465"></summary>
- 
-  Only send Ethereum and ERC-20 tokens to this address
-  ```
-  0x9d36a7694d350B23a0440b85a9db81DC9B3ecB8B
-  ```
-</details>
 
 📜 My projects that are worth looking at (Click the portal to go) <br>
   
