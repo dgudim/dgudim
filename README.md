@@ -8,14 +8,13 @@
   <a href="https://github.com/dgudim/dgudim" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/dgudim/dgudim?label=Profile%20update&style=fflat-square"></a>
 </p>
 
-<table align="right">
-<tr><td><a href="https://discordapp.com/users/410761741484687371/"><img alt="Discord" src="https://lanyard.cnrad.dev/api/410761741484687371?bg=0D1117&idleMessage=Probably%20doing%20something%20else..." width=330></a></td></tr>
+<table align="center">
 <tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=350" height=155></a></td></tr>
 </table>
 
 <p align="center">
   <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=430></a>
-  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=430></a>
+  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=512></a>
 </p>
 
 
@@ -27,6 +26,7 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
   [![Matrix](https://img.shields.io/badge/Matrix-0DBD8B?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@doodetz:matrix.org)
   [![Mastodon](https://img.shields.io/badge/Mastodon-5D3FDD?style=for-the-badge&logo=mastodon&logoColor=white)](https://ioc.exchange/@kloud)
+  [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/-cezrqIIFzSUMDpij9ZEqtFb2BFVny4UxQMlU08s1sXtJr-c0FpCBLzk2ALUpUeV)
   
   🏴‍☠️ Languages i know:
 <br />
@@ -103,5 +103,5 @@
 <br />
 <br />
 
-[![Dgudim's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dgudim&theme=gruvbox&bg_color=282828)](#)
+[![Dgudim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dgudim&theme=gruvbox&bg_color=282828)](#)
 
