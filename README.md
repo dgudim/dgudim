@@ -8,13 +8,14 @@
   <a href="https://github.com/dgudim/dgudim" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/dgudim/dgudim?label=Profile%20update&style=fflat-square"></a>
 </p>
 
-<table align="center">
-<tr><td align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&hide_border=true&bg_color=161B22&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=350" height=155></a></td></tr>
-</table>
 
 <p align="center">
-  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=430></a>
-  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=512></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&bg_color=282828&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=450" height=170></a>
+</p>
+
+<p align="center">
+  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=400></a>
+  <a href="#"><img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=dgudim&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D&count_private=true&include_all_commits=true" width=480></a>
 </p>
 
 
