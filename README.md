@@ -3,7 +3,12 @@
 </p>
 <h3 align="center">I am just a random developer working on random projects in my free time, trying to make code work</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dgudim" alt="dgudim" /> 
+<p align="center">
+  <img src="https://count.getloli.com/@:kloud?theme=3d-num" />
+  Profile views
+</p>
+
+<p align="center">
   <a href="https://github.com/dgudim?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/dgudim?color=4C1&logo=github"></a>
   <a href="https://github.com/dgudim/dgudim" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/dgudim/dgudim?label=Profile%20update&style=fflat-square"></a>
 </p>
@@ -27,7 +32,6 @@
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC5PtgS_iXYUBdU5HIfdX9Lg)
   [![Matrix](https://img.shields.io/badge/Matrix-0DBD8B?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@doodetz:matrix.org)
   [![Mastodon](https://img.shields.io/badge/Mastodon-5D3FDD?style=for-the-badge&logo=mastodon&logoColor=white)](https://ioc.exchange/@kloud)
-  [![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)](https://signal.me/#eu/-cezrqIIFzSUMDpij9ZEqtFb2BFVny4UxQMlU08s1sXtJr-c0FpCBLzk2ALUpUeV)
   
   🏴‍☠️ Languages i know:
 <br />
