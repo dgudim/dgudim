@@ -15,15 +15,6 @@
 </p>
 
 
-<p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgudim&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&bg_color=282828&exclude_repo=uni-math-notes,obsidian-universal-renderer&langs_count=6&card_width=400" height=150></a>
-</p>
-
-<p align="center">
-  <a href="#"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dgudim&theme=gruvbox&count_private=true&include_all_commits=true&line_height=28" width=335></a>
-</p>
-
-
   📫 Where to find me: 
 <br />
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github.earthworm153@simplelogin.com)
